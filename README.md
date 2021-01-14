@@ -2,7 +2,6 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Steps taken] (#steps-taken)
 * [Extract](#extract)
 * [Transform](#transform)
 * [Load](#load)
