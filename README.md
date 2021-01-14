@@ -3,9 +3,6 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Steps Taken] (#steps-taken)
-* [Extract](#extract)
-* [Transform](#transform)
-* [Load](#load)
 * [Technologies](#technologies)
 
 ## Introduction
